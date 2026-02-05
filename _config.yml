@@ -21,8 +21,8 @@
 
 email: lucalexe@gmail.com
 # description: Integrative healing in Mexico with psychotherapy, body therapy, EMDR, Brainspotting, and cacao rituals. English and Spanish sessions.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lucian-alexe.github.io/jekyll-with-pages/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/jekyll-with-pages" # the subpath of your site, e.g. /blog
+url: "https://lucian-alexe.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Lucian-Alexe
 permalink:  /notes/:year/:month/:day/:title
 
