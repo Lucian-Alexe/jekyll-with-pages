@@ -65,15 +65,19 @@ content:
         label: Content
         type: rich-text
 
-      - name: sections
-        label: Page Sections
-        type: block
-        list: true # Often used with type: block to allow multiple sections
-        blockKey: type # Optional: customize the key used to store the block name, defaults to `_block`
-        blocks:
-        - name: text
-          label: Add Text Block
-          fields:
-            - name: content
-              label: Text Content
-              type: rich-text
+      - name: service_list
+        label: Service List (Therapy)
+        type: object
+        fields:
+          - name: heading
+            label: Heading
+            type: string
+          - name: intro_text
+            label: Introduction Text
+            type: string
+          - name: list_items
+            label: List Items
+            type: list
+            field: # This tells PagesCMS each item in the list is a simple text input
+              type: string
+              label: Item
