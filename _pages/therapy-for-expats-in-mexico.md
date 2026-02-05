@@ -25,16 +25,25 @@ intro: >-
 
   Prices are fully transparent, with the cost of a therapy session starting at
   MX$1000.
-sections:
-  - type: text
-    content: |-
-      Services 1
-
-      *   Service 1
-          
-      *   service 2
-          
-      *   service 3
+service_list:
+  heading: Why Individual Therapy?
+  intro_text: "Individual Therapy may be especially helpful if you are experiencing:"
+  list_items: |-
+    *   Anxiety and chronic worry
+        
+    *   Depression or lack of motivation
+        
+    *   Trauma and PTSD
+        
+    *   Emotional regulation challenges
+        
+    *   Perfectionism and self-criticism
+        
+    *   Life transitions
+        
+    *   Identity exploration
+        
+    *   Burnout and exhaustion
 ---
 ## Why therapy might be helpful for you
 
