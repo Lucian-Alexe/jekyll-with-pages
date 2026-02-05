@@ -48,12 +48,13 @@ content:
         label: Layout
         type: string
         default: page
+        
+      - name: cover
+        label: Cover Image
+        type: image
 
       - name: body
         label: Content
         type: rich-text
 
-      - name: cover
-        label: Cover Image
-        type: image
 
