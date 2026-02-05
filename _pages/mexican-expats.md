@@ -7,7 +7,7 @@ permalink: /mexican-expats-living-abroad
 
 # Mexican Expats Living Abroad
 
-Leaving México brings opportunity and excitementt but often grief, longing, and identity shifts. Therapy offers space to understand these feelings and strengthen your emotional wellbeing. Having lived abroad myself, I deeply understand these layers.
+Leaving México brings opportunity and excitementt but often grief, longing, and identity shifts. Therapy offers space to understand these feelings and strengthen your emotional wellbeing. Having lived abroad myself, I deeply understand these layers.aaa
 
 ## Why Therapy?
 
