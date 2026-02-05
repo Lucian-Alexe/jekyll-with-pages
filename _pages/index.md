@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Tania Chapper M.A. - Psychotherapy, Somatic Therapy & Cacao Therapy in Mexico City"
+permalink: /
 description: "Psychologist in Mexico City: Personalized Therapy including EMDR, Brainspotting, Somatic Therapy or Cacao Ceremonies. English/Spanish sessions from MX$1000."
 
 ---
