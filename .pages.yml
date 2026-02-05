@@ -1,6 +1,6 @@
 media:
-  input: jekyll-with-pages/assets/img
-  output: /jekyll-with-pages/assets/img
+  input: assets/img
+  output: /assets/img
 
 content:
   - name: posts
