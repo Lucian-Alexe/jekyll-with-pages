@@ -75,7 +75,6 @@ Below is an overview of the therapeutic approaches used in sessions. Your treatm
     
     If you’re going through a big transition or struggling to find your balance, a cacao ceremony can offer a gentle, grounding ritual. It’s a way to open your heart and help you process emotions in a calming, spiritual way.
     
-
 *   ![Therapy session with psychologist in Mexico](../assets/img/therapy.jpg)
     
     ### Traditional Psychotherapy
