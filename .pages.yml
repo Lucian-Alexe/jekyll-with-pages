@@ -1,6 +1,6 @@
 media:
   input: https://lucian-alexe.github.io/jekyll-with-pages/assets/uploads
-  output: https://lucian-alexe.github.io/jekyll-with-pages/assets/uploads
+  output: /assets/uploads
 
 content:
   - name: posts
