@@ -13,10 +13,15 @@
             
             <h1 class="text-center mt-3 mb-5">{{ page.title }}</h1>
             {% if page.intro %} <p class="page-intro">{{ page.intro }}</p>{% endif %}
-            <div class="thin-box-no-click p-5 my-5">
+            
             {{ content }}
-            {% if page.sections %}<div class="page-service-list">{% page.sections %}</div>{% endif %}
-            </div>
+            
+            {% if page.brown_box %}
+            <div class="thin-box-no-click p-5 my-5">
+              <div class="page-service-list">
+                </div>
+              </div>{{ page.brown_box }}{% endif %}
+            
             </div>
     </div>
 </section>
