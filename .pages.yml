@@ -33,3 +33,18 @@ content:
       - name: body
         label: Content
         type: rich-text
+
+
+content:
+  - name: pages
+    label: Pages
+    type: files
+    files:
+      - name: home
+        label: Home
+        file: index.md
+        fields:
+          - name: title
+            type: string
+          - name: body
+            type: rich-text
