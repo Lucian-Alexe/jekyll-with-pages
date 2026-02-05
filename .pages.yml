@@ -65,7 +65,7 @@ content:
         label: Content
         type: rich-text
 
-      - name: sections
+    - name: sections
         label: Page Sections
         type: block
         list: true # Often used with type: block to allow multiple sections
