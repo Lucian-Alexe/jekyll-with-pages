@@ -24,6 +24,12 @@ content:
         type: string
         default: post
 
+      - name: categories
+        label: Categories
+        type: list
+        items:
+          type: string
+
       - name: body
         label: Content
         type: rich-text
