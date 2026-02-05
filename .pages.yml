@@ -33,7 +33,22 @@ content:
       - name: body
         label: Content
         type: rich-text
-
+        
   - name: pages
     label: Pages
-    type: files
+    type: collection
+    path: _pages
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+
+      - name: layout
+        label: Layout
+        type: string
+        default: page
+
+      - name: body
+        label: Content
+        type: rich-text
