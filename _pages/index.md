@@ -11,16 +11,16 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
   <div class="container">
     <div class="inside-container">
     <h1 class="text-center mb-2 mb-md-5">Therapy That Moves You. <strong>Literally</strong></h1>
-    <p class="text-center mt-4">Healing isn’t  <strong>one-size-fits-all</strong>. I blend <a href="/psychotherapy-mental-health-services" class="hero-area-link">traditional psychotherapy</a>, <a href="/somatic-therapy-mexico-city/" class="hero-area-link">somatic therapy</a>, or <a class="hero-area-link" href="cacao-therapy-ceremony/">cacao-based therapy</a>, to help you release what’s stuck and reconnect with what feels true. Available remote and in-person (Mexico City, CDMX - Condesa), in Spanish or English. Transparent pricing.</p>
+    <p class="text-center mt-4">Healing isn’t  <strong>one-size-fits-all</strong>. I blend <a href="{{ site.baseurl }}/psychotherapy-mental-health-services" class="hero-area-link">traditional psychotherapy</a>, <a href="{{ site.baseurl }}/somatic-therapy-mexico-city/" class="hero-area-link">somatic therapy</a>, or <a class="hero-area-link" href="{{ site.baseurl }}/cacao-therapy-ceremony/">cacao-based therapy</a>, to help you release what’s stuck and reconnect with what feels true. Available remote and in-person (Mexico City, CDMX - Condesa), in Spanish or English. Transparent pricing.</p>
       <div class="text-center my-5">
       <a class="hero-button text-center" href="https://zcal.co/mindbodycacao/consultation" target="_blank" data-simple-event="book_consultation">Book your free consultation <i class="bi bi-arrow-right-circle"></i></a>
       <a href="https://wa.me/+525561342194?text=Hello%2C%20I%20am%20interested%20in%20therapy" target="_blank" class="whatsapp-link" data-simple-event="call_whatsapp">
       <i class="bi bi-whatsapp"></i> or chat with me on WhatsApp
       </a>
-      <a href="/about" class="hero-bio-link">
+      <a href="{{ site.baseurl }}/about" class="hero-bio-link">
       <div class="hero-bio p-3">
           <div class="row justify-content-between align-items-center">
-              <div class="col-md-12 col-lg-3"><img src="/assets/img/tania-chapper-therapist.png" alt="Therapist in Mexico City"></div>
+              <div class="col-md-12 col-lg-3"><img src="{{ site.baseurl }}/assets/img/tania-chapper-therapist.png" alt="Therapist in Mexico City"></div>
               <div class="col-md-12  col-lg-9">
                 <h2 class="hero-h2 py-2"><strong>Meet your therapist</strong></h2>
                 <p>I'm a bilingual therapist with 10+ years of experience in the US and Mexico, specializing in individual, couples, and adolescent therapy. Certified in EMDR and BrainSpotting, I'm adapting my therapeutic methods based on what works for you - either through traditional therapy or somatic therapy. Online and in-person sessions available. Click to learn more about me and my method.</p>
@@ -114,7 +114,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
           </div>
         </div>
         <!--Slider ends-->
-        <div class="text-center my-5"><a class="box-button text-center" href="/psychotherapy-mental-health-services">Find out more</a></div>
+        <div class="text-center my-5"><a class="box-button text-center" href="{{ site.baseurl }}/psychotherapy-mental-health-services">Find out more</a></div>
       </div>
     <!--BlueBox end -->
     <!--BlueBox start -->
@@ -179,7 +179,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
           </div>
         </div>
         <!--Slider ends-->
-        <div class="text-center my-5"><a class="box-button text-center" href="/body-therapy">Find out more</a></div>
+        <div class="text-center my-5"><a class="box-button text-center" href="{{ site.baseurl }}/body-therapy">Find out more</a></div>
       </div>
     <!--BlueBox end -->
         <!--BlueBox start -->
@@ -241,7 +241,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
           </div>
         </div>
         <!--Slider ends-->
-        <div class="text-center my-5"><a class="box-button text-center" href="cacao-therapy-ceremony/">Find out more</a></div>
+        <div class="text-center my-5"><a class="box-button text-center" href="{{ site.baseurl }}/cacao-therapy-ceremony/">Find out more</a></div>
       </div>
     <!--BlueBox end -->
     </div>
@@ -254,7 +254,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
       <h2 class="text-center">Who benefits</h2>
       <div class="row my-3 align-items-stretch">
         <div class="col-md-6 my-3">
-          <a  href="/individual-therapy" class="thin-box-link">
+          <a  href="{{ site.baseurl }}/individual-therapy" class="thin-box-link">
           <div class="thin-box p-5">
             <div class="icon-services text-center mb-3">
               <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="#a9542d" class="bi bi-patch-check" viewBox="0 0 16 16">
@@ -268,7 +268,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
           </a>
         </div> 
         <div class="col-md-6 my-3">
-          <a href="/couples-therapy" class="thin-box-link">
+          <a href="{{ site.baseurl }}/couples-therapy" class="thin-box-link">
           <div class="thin-box p-5">
             <div class="icon-services text-center mb-3">
               <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="#a9542d" class="bi bi-patch-check" viewBox="0 0 16 16">
@@ -284,7 +284,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
       </div>
       <div class="row my-3 align-items-stretch">
         <div class="col-md-6 my-3">
-          <a href="/adolescents-therapy" class="thin-box-link">
+          <a href="{{ site.baseurl }}/adolescents-therapy" class="thin-box-link">
           <div class="thin-box p-5">
             <div class="icon-services text-center mb-3">
               <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="#a9542d" class="bi bi-patch-check" viewBox="0 0 16 16">
@@ -298,7 +298,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
           </a>
         </div> 
         <div class="col-md-6 my-3">
-          <a href="/parents-therapy" class="thin-box-link">
+          <a href="{{ site.baseurl }}/parents-therapy" class="thin-box-link">
           <div class="thin-box p-5">
             <div class="icon-services text-center mb-3">
               <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="#a9542d" class="bi bi-patch-check" viewBox="0 0 16 16">
@@ -314,7 +314,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
       </div>
        <div class="row my-3 align-items-stretch">
         <div class="col-md-6 my-3">
-          <a href="/english-therapy-mexico-city" class="thin-box-link">
+          <a href="{{ site.baseurl }}/english-therapy-mexico-city" class="thin-box-link">
           <div class="thin-box p-5">
             <div class="icon-services text-center mb-3">
               <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="#a9542d" class="bi bi-patch-check" viewBox="0 0 16 16">
@@ -328,7 +328,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
           </a>
         </div> 
         <div class="col-md-6 my-3">
-          <a href="/mexican-expats-living-abroad" class="thin-box-link">
+          <a href="{{ site.baseurl }}/mexican-expats-living-abroad" class="thin-box-link">
           <div class="thin-box p-5">
             <div class="icon-services text-center mb-3">
               <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="#a9542d" class="bi bi-patch-check" viewBox="0 0 16 16">

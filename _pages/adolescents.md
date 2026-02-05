@@ -8,7 +8,7 @@ description: "Help your teen overcome emotional struggles with expert adolescent
 <section>
     <div class="container">
             <div class="inside-container">
-                <img src="/assets/img/young.jpg" class="img-fluid img-services-clients">
+                <img src="{{ site.baseurl }}/assets/img/young.jpg" class="img-fluid img-services-clients">
                 <h1 class="text-center mt-3 mb-5">Adolescents Therapy</h1> 
                 <p class="page-intro">Adolescence can be confusing, overwhelming, and full of change. Therapy gives teens a confidential space to be heard, understood, and supported as they navigate new emotions and experiences.</p>
                 <div class="thin-box-no-click p-5 my-5">
