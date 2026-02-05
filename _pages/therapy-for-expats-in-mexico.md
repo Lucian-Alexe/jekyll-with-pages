@@ -9,11 +9,6 @@ intro: >-
   scenery, starting fresh in a new place can be harder than it seems.
 
 
-  Moving to Mexico City is exciting, but it can also feel overwhelming at times.
-  Whether you came here for work, to be with family, or just for a change of
-  scenery, starting fresh in a new place can be harder than it seems.
-
-
   **I get it**. I’ve lived in the US, Europe, and now Mexico, so I know how it
   feels to adjust to a new culture and build a life from scratch. Missing your
   friends, feeling like a stranger in a new city, struggling with language
