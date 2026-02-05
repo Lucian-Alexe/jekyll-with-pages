@@ -9,7 +9,11 @@ image: /assets/img/mexican-expats.jpg
 <section>
     <div class="container">
             <div class="inside-container">
-                <img src="/assets/img/mexican-expats.jpg" class="img-fluid img-services-clients">
+                <div>
+                {% if page.cover %}
+                <img src="{{ page.cover | relative_url }}" alt="Cover image for {{ page.title }}" class="img-fluid img-services-clients">
+                {% endif %}
+                </div>
                 <h1 class="text-center mt-3 mb-5">Mexican Expats Living Abroad</h1> 
                 <p class="page-intro">Leaving México brings opportunity and excitement but often grief, longing, and identity shifts. Therapy offers space to understand these feelings and strengthen your emotional wellbeing. Having lived abroad myself, I deeply understand these layers.</p>
                 <div class="thin-box-no-click p-5 my-5">
