@@ -57,6 +57,10 @@ content:
         label: Cover Image
         type: image
 
+      - name: intro
+        label: Page intro
+        type: rich-text
+
       - name: body
         label: Content
         type: rich-text
