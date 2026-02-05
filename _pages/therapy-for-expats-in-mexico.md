@@ -4,9 +4,10 @@ layout: page
 permalink: /english-therapy-mexico-city
 cover: /assets/img/expats-in-mexico.jpg
 intro: >-
-  Moving to Mexico City is exciting, but it can also feel overwhelming at times.
-  Whether you came here for work, to be with family, or just for a change of
-  scenery, starting fresh in a new place can be harder than it seems.
+  <p style="text-align: center">Moving to Mexico City is exciting, but it can
+  also feel overwhelming at times. Whether you came here for work, to be with
+  family, or just for a change of scenery, starting fresh in a new place can be
+  harder than it seems.</p>
 
 
   **_I get it_**. I’ve lived in the US, Europe, and now Mexico, so I know how it
