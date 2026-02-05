@@ -36,4 +36,5 @@ content:
 
   - name: pages
     label: Pages
+    path: _pages
     type: files
