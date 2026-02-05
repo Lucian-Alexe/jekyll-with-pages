@@ -6,6 +6,7 @@
 </head>
 <body>
   {% include navbar.html %}
+  {% if page.cover %} <img src="{{ page.cover | relative_url }}" alt="Cover image for {{ page.title }}" class="img-fluid img-services-clients"> {% endif %}
   {{ content }}
   {% include footer.html %}
 
