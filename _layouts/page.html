@@ -15,6 +15,7 @@
             {% if page.intro %} <p class="page-intro">{{ page.intro }}</p>{% endif %}
             <div class="thin-box-no-click p-5 my-5">
             {{ content }}
+            {% if page.sections %}<div class="page-service-list">{% page.sections %}</div>{% endif %}
             </div>
             </div>
     </div>
