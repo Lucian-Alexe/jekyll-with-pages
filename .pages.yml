@@ -77,7 +77,4 @@ content:
             type: string
           - name: list_items
             label: List Items
-            type: list
-            field: # This tells PagesCMS each item in the list is a simple text input
-              type: string
-              label: Item
+            type: rich-text
