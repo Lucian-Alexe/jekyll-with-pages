@@ -51,7 +51,7 @@ content:
 
       - name: permalink
         label: Permalink
-        type: text
+        type: string
 
       - name: cover
         label: Cover Image
