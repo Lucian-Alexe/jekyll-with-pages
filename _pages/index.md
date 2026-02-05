@@ -39,9 +39,9 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
   </div>
   </div>
   <div class="hero-img mb-5">
-  <img src="/assets/img/psycotherapy-expats-body-therapy-cacao-therapy.png" 
-     srcset="/assets/img/psycotherapy-expats-body-therapy-cacao-therapy.png 1000w, 
-             /assets/img/psycotherapy-expats-body-therapy-cacao-therapy-small.png 1200w"
+  <img src="{{ site.baseurl }}/assets/img/psycotherapy-expats-body-therapy-cacao-therapy.png" 
+     srcset="{{ site.baseurl }}/assets/img/psycotherapy-expats-body-therapy-cacao-therapy.png 1000w, 
+             {{ site.baseurl }}/assets/img/psycotherapy-expats-body-therapy-cacao-therapy-small.png 1200w"
      sizes="(min-width: 1024px) 1000px, 1200px"
      alt="The different therapies offered by Mind, Body, Cacao psychotherapy, somatic therapy, spiritual therapy"
      class="img-fluid" />
@@ -53,7 +53,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
     <div class="inside-container">
     <!--BlueBox start -->
       <div class="blue-box">
-        <div class="services-image"><img src="/assets/img/psycho-therapy-services.svg" class="img-fluid" alt="Icon for Psychotherapy"></div>
+        <div class="services-image"><img src="{{ site.baseurl }}/assets/img/psycho-therapy-services.svg" class="img-fluid" alt="Icon for Psychotherapy"></div>
         <h2 class="text-center">The Mind</h2>
         <h3 class="text-center blue-box-h3">Psychotherapy & Mental Health Services</h3>
         <p class="text-center mt-5">At the heart of my holistic approach to mental health is psychotherapy, where I draw from a variety of therapeutic methods to support you on your healing journey. Whether it's through <strong>traditional psychotherapy</strong>, <strong>EMDR</strong>, or <strong>Brainspotting</strong>, I'm here to guide individuals through challenges like trauma, PTSD, anxiety, adjustment to a new country, depression, and relationship struggles. </p>
@@ -68,7 +68,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                   <li>
                       <div class="card border-0">
                           <div class="ratio ratio-16x9">
-                              <img src="../assets/img/therapy.jpg" class="card-img-top" loading="lazy" alt="Therapy session with psychologist in Mexico">
+                              <img src="{{ site.baseurl }}/assets/img/therapy.jpg" class="card-img-top" loading="lazy" alt="Therapy session with psychologist in Mexico">
                           </div>
                           <div class="card-body p-0 p-4">
                               <div class="d-flex">
@@ -83,7 +83,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                   <li>
                       <div class="card border-0">
                           <div class="ratio ratio-16x9">
-                              <img src="../assets/img/emdr.jpg" class="card-img-top" loading="lazy" alt="Photo shows an EMDR session in Mexico">
+                              <img src="{{ site.baseurl }}/assets/img/emdr.jpg" class="card-img-top" loading="lazy" alt="Photo shows an EMDR session in Mexico">
                           </div>
                           <div class="card-body p-0 p-4">
                               <div class="d-flexraditional Psy">
@@ -97,7 +97,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                   <li>
                       <div class="card border-0">
                           <div class="ratio ratio-16x9">
-                              <img src="../assets/img/brainspotting.jpg" class="card-img-top" loading="lazy" alt="Image shows brainspotting therapy in Mexico">
+                              <img src="{{ site.baseurl }}/assets/img/brainspotting.jpg" class="card-img-top" loading="lazy" alt="Image shows brainspotting therapy in Mexico">
                           </div>
                           <div class="card-body p-0 p-4">
                               <div class="d-flex">
@@ -119,7 +119,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
     <!--BlueBox end -->
     <!--BlueBox start -->
       <div class="blue-box">
-      <div class="services-image"><img src="/assets/img/body-movement-therapy-yoga.svg" class="img-fluid" alt="Icon for Body Movement Therapy"></div>
+      <div class="services-image"><img src="{{ site.baseurl }}/assets/img/body-movement-therapy-yoga.svg" class="img-fluid" alt="Icon for Body Movement Therapy"></div>
         <h2 class="text-center">The Body</h2>
         <h3 class="text-center blue-box-h3">Somatic Therapy (yoga, dance, movement)</h3>
         <p class="text-center mt-5">Because the body holds emotions, memory, and stress, healing must involve more than the mind. I focus on connecting the two through <strong>movement therapy</strong>, <strong>yoga</strong>, <strong>dance therapy</strong>, and <strong>embodiment practices</strong>. By engaging the body in mindful physical practices, we can unlock deep healing and emotional release. These therapies not only improve mental health but also promote physical well-being, helping you cultivate a balanced, resilient life. </p>
@@ -134,7 +134,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                   <li>
                       <div class="card border-0">
                           <div class="ratio ratio-16x9">
-                              <img src="../assets/img/yoga.jpg" class="card-img-top" loading="lazy" alt="Photo shows a yoga session therapy in Mexico">
+                              <img src="{{ site.baseurl }}/assets/img/yoga.jpg" class="card-img-top" loading="lazy" alt="Photo shows a yoga session therapy in Mexico">
                           </div>
                           <div class="card-body p-0 p-4">
                               <div class="d-flex">
@@ -148,7 +148,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                   <li>
                       <div class="card border-0">
                           <div class="ratio ratio-16x9">
-                              <img src="../assets/img/movement.jpg" class="card-img-top" loading="lazy" alt="Image shows a movement therapy in action">
+                              <img src="{{ site.baseurl }}/assets/img/movement.jpg" class="card-img-top" loading="lazy" alt="Image shows a movement therapy in action">
                           </div>
                           <div class="card-body p-0 p-4">
                               <div class="d-flexraditional Psy">
@@ -162,7 +162,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                   <li>
                       <div class="card border-0">
                           <div class="ratio ratio-16x9">
-                              <img src="../assets/img/dance.jpg" class="card-img-top" loading="lazy" alt="Image shows a dance movement session therapy">
+                              <img src="{{ site.baseurl }}/assets/img/dance.jpg" class="card-img-top" loading="lazy" alt="Image shows a dance movement session therapy">
                           </div>
                           <div class="card-body p-0 p-4">
                               <div class="d-flex">
@@ -184,7 +184,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
     <!--BlueBox end -->
         <!--BlueBox start -->
       <div class="blue-box">
-      <div class="services-image"><img src="/assets/img/cacao-therapy-ceremony.svg" class="img-fluid" alt="Icon for cacao ritual"></div>
+      <div class="services-image"><img src="{{ site.baseurl }}/assets/img/cacao-therapy-ceremony.svg" class="img-fluid" alt="Icon for cacao ritual"></div>
         <h2 class="text-center">Cacao</h2>
         <h3 class="text-center blue-box-h3">Cacao Therapy</h3>
         <p class="text-center mt-5"> In addition to traditional psychotherapy, the Cacao Therapy is an optional, complementary practice to enhance emotional release and self-reflection. Cacao, a sacred plant medicine, has been used for centuries in healing rituals to open the heart, facilitate deep emotional processing, and promote spiritual insight. Through cacao ceremonies, you will experience a powerful journey of self-discovery, where you can release emotional blockages, connect with your inner peace, and cultivate clarity.</p>
@@ -196,7 +196,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                   <li>
                       <div class="card border-0">
                           <div class="ratio ratio-16x9">
-                              <img src="../assets/img/couple.png" class="card-img-top" loading="lazy" alt="Photo shows a couple during a cacao ritual in Mexico City">
+                              <img src="{{ site.baseurl }}/assets/img/couple.png" class="card-img-top" loading="lazy" alt="Photo shows a couple during a cacao ritual in Mexico City">
                           </div>
                           <div class="card-body p-0 p-4">
                               <div class="d-flex">
@@ -210,7 +210,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                   <li>
                       <div class="card border-0">
                           <div class="ratio ratio-16x9">
-                              <img src="../assets/img/individual.png" class="card-img-top" loading="lazy" alt="Image shows an indvidual having a cacao ritual session">
+                              <img src="{{ site.baseurl }}/assets/img/individual.png" class="card-img-top" loading="lazy" alt="Image shows an indvidual having a cacao ritual session">
                           </div>
                           <div class="card-body p-0 p-4">
                               <div class="d-flexraditional Psy">
@@ -224,7 +224,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                   <li>
                       <div class="card border-0">
                           <div class="ratio ratio-16x9">
-                              <img src="../assets/img/group.png" class="card-img-top" loading="lazy" alt="Photo shows a group during a cacao therapy">
+                              <img src="{{ site.baseurl }}/assets/img/group.png" class="card-img-top" loading="lazy" alt="Photo shows a group during a cacao therapy">
                           </div>
                           <div class="card-body p-0 p-4">
                               <div class="d-flex">
