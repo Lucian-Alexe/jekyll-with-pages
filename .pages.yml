@@ -1,5 +1,5 @@
 media:
-  input: /assets/uploads
+  input: https://lucian-alexe.github.io/jekyll-with-pages/assets/uploads
   output: assets/uploads
 
 content:
