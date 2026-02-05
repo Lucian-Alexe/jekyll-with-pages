@@ -65,16 +65,6 @@ content:
         label: Content
         type: rich-text
 
-      - name: service_list
-        label: Service List (Therapy)
-        type: object
-        fields:
-          - name: heading
-            label: Heading
-            type: string
-          - name: intro_text
-            label: Introduction Text
-            type: string
-          - name: list_items
-            label: List Items
-            type: rich-text
+      - name: brown_box
+        label: Brown Box
+        type: rich-text
