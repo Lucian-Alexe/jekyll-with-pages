@@ -48,7 +48,11 @@ content:
         label: Layout
         type: string
         default: page
-        
+
+      - name: permalink
+        label: Permalink
+        type: string
+
       - name: cover
         label: Cover Image
         type: image

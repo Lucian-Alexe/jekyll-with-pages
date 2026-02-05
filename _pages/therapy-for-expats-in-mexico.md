@@ -1,6 +1,7 @@
 ---
 title: English-Speaking Therapy in Mexico City
 layout: page
+permalink: /english-therapy-mexico-city
 cover: /assets/img/expats-in-mexico.jpg
 permalink: "{{ page.permalink }}"
 ---
