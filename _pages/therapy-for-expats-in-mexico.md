@@ -9,7 +9,7 @@ intro: >-
   scenery, starting fresh in a new place can be harder than it seems.
 
 
-  **I get it**. I’ve lived in the US, Europe, and now Mexico, so I know how it
+  **_I get it_**. I’ve lived in the US, Europe, and now Mexico, so I know how it
   feels to adjust to a new culture and build a life from scratch. Missing your
   friends, feeling like a stranger in a new city, struggling with language
   barriers... these are things that really hit home. Or it might be that your
