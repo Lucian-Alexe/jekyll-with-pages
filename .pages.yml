@@ -33,3 +33,7 @@ content:
       - name: body
         label: Content
         type: rich-text
+
+  - name: pages
+    label: Pages
+    type: files
