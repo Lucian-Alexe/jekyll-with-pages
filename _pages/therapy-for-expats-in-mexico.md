@@ -16,10 +16,10 @@ intro: >-
   family is taking longer to adapt. All these are real challenges.
 
 
-  That’s why I offer therapy in both **English** and **Spanish** in Mexico City.
-  I want you to feel completely supported, no matter where you’re from. My goal
-  is to help you feel more at home here, work through the ups and downs of
-  living abroad, and find peace in this exciting new chapter of your life.
+  That’s why I offer therapy in both `English` and **Spanish** in Mexico City. I
+  want you to feel completely supported, no matter where you’re from. My goal is
+  to help you feel more at home here, work through the ups and downs of living
+  abroad, and find peace in this exciting new chapter of your life.
 
 
   Prices are fully transparent, with the cost of a therapy session starting at
