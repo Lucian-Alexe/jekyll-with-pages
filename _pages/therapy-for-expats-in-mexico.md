@@ -13,17 +13,27 @@ intro: >-
   feels to adjust to a new culture and build a life from scratch. Missing your
   friends, feeling like a stranger in a new city, struggling with language
   barriers... these are things that really hit home. Or it might be that your
-  family is taking longer to adapt. All these are real challenges.  
+  family is taking longer to adapt. All these are real challenges.
 
 
   That’s why I offer therapy in both `English` and **Spanish** in Mexico City. I
   want you to feel completely supported, no matter where you’re from. My goal is
   to help you feel more at home here, work through the ups and downs of living
-  abroad, and find peace in this exciting new chapter of your life.  
+  abroad, and find peace in this exciting new chapter of your life.
 
 
   Prices are fully transparent, with the cost of a therapy session starting at
   MX$1000.
+sections:
+  - type: text
+    content: |-
+      Services 1
+
+      *   Service 1
+          
+      *   service 2
+          
+      *   service 3
 ---
 ## Why therapy might be helpful for you
 
