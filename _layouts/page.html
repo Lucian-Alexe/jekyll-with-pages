@@ -12,14 +12,14 @@
             {% if page.cover %} <img src="{{ page.cover | relative_url }}" alt="Cover image for {{ page.title }}" class="img-fluid img-services-clients"> {% endif %}
             
             <h1 class="text-center mt-3 mb-5">{{ page.title }}</h1>
-            {% if page.intro %} <p class="page-intro">{{ page.intro }}</p>{% endif %}
+            {% if page.intro %} <p class="page-intro">{{ page.intro | markdownify }}</p>{% endif %}
             
             {{ content }}
             
             {% if page.brown_box %}
             <div class="thin-box-no-click p-5 my-5">
               <div class="page-service-list">
-                {{ page.brown_box }}
+                {{ include.data.brown_box | markdownify }}
                 </div>
               </div>{% endif %}
             
